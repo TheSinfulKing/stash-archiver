@@ -1,0 +1,10 @@
+{
+    "stashDatabasePath": "..\\stash-archiver Testing\\stash-go.sqlite",
+    "backupPaths": [
+        "..\\stash-archiver Testing\\TestFolder1",
+        "..\\stash-archiver Testing\\TestFolder2"
+    ],
+    "backupConfigs": [
+        "..\\stash-archiver Testing\\TestBackupConfigs\\Example.jsonc"
+    ]
+}
